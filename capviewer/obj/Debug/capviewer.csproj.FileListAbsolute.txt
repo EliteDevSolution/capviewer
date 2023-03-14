@@ -1,0 +1,6 @@
+D:\Code\C#\capviewer\capviewer\bin\Debug\capviewer.exe
+D:\Code\C#\capviewer\capviewer\bin\Debug\capviewer.pdb
+D:\Code\C#\capviewer\capviewer\obj\Debug\capviewer.csprojResolveAssemblyReference.cache
+D:\Code\C#\capviewer\capviewer\obj\Debug\capviewer.exe
+D:\Code\C#\capviewer\capviewer\obj\Debug\capviewer.pdb
+D:\Code\C#\capviewer\capviewer\bin\Debug\ALVCS03CONTROLS.dll
